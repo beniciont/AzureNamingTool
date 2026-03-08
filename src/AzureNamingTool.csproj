@@ -30,8 +30,8 @@
 		<PackageReference Include="Blazored.Modal" Version="7.3.1" />
 		<PackageReference Include="Blazored.Toast" Version="4.2.1" />
 		<PackageReference Include="Markdig" Version="0.44.0" />
-		<PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="10.0.0" />
-		<PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="10.0.0">
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="8.0.0" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.0" />
 			<PrivateAssets>all</PrivateAssets>
 			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
 		</PackageReference>
@@ -41,7 +41,7 @@
 		<PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="10.0.1" />
 		<PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="10.0.1" />
 		<PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="10.0.1" />
-		<PackageReference Include="System.Runtime.Caching" Version="10.0.0" />
+		<PackageReference Include="System.Runtime.Caching" Version="8.0.0" />
 	</ItemGroup>
 
 	<ItemGroup>
